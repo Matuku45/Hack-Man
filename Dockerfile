@@ -14,4 +14,4 @@ RUN pip install --no-cache-dir flask
 EXPOSE 5000
 
 # Command to run the app
-CMD ["python", "your_flask_app.py"]
+CMD ["python", "app.py"]
